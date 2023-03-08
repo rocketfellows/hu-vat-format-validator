@@ -43,7 +43,7 @@ class HUVatFormatValidatorTest extends TestCase
                 'isValid' => true,
             ],
             [
-                'vatNumber' => 'HU999999999',
+                'vatNumber' => 'HU99999999',
                 'isValid' => true,
             ],
             [
