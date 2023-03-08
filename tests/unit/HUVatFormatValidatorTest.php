@@ -3,6 +3,7 @@
 namespace rocketfellows\HUVatFormatValidator\tests\unit;
 
 use PHPUnit\Framework\TestCase;
+use rocketfellows\HUVatFormatValidator\HUVatFormatValidator;
 
 class HUVatFormatValidatorTest extends TestCase
 {
